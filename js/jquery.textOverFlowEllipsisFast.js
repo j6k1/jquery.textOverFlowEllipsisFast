@@ -127,7 +127,7 @@
 		});
 	};
 	
-    var $targets = [];
+	var $targets = [];
 
 	$(document).ready(function () {
 		$.textOverFlowElipsis();
